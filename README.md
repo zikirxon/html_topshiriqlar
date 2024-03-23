@@ -1,2 +1,2 @@
 # html_topshiriqlar
-Iltimos o'zingiz css xossalari kerak emas deb qoidalrida yozgan edingiz endi men usha saytning o'zidan bazi narsalarni ko'chirishga majbur bo'ldim.meni fikrimcha dasturchi degani bu doimo har qanday sharoitdan uzining aqli bilan chiqib ketadigan shaxs. Oldindan raxmat baho uchun
+Iltimos o'zingiz css xossalari kerak emas deb qoidalarida yozgan edingiz endi. Men usha saytning o'zidan bazi narsalarni ko'chirishga majbur bo'ldim. Meni fikrimcha dasturchi degani bu doimo har qanday vaziyatdan o'zining aqli bilan chiqib ketadigan shaxsni tushunaman. Oldindan raxmat baho uchun
